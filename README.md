@@ -34,5 +34,5 @@ gradlew test
 ## Authors
 paulina.wojno@gmail.com
 
-##Project status
+## Project status
 Finished for now, but hopefully it is not the end of this adventure :D
